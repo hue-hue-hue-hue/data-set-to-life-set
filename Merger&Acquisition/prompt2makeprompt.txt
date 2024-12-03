@@ -1,0 +1,126 @@
+Customize the below template for [ENTER DOCUMENT Name] of Disney and Fox. Include instructions to make the document atleast 2 pages and use web search wherever needed. 
+
+---
+
+### **Prompt for Generating a Synthetic Document for Capital One's Acquisition of Discover Financial Services**
+
+---
+
+**Objective:**
+
+Generate a realistic synthetic financial or legal document for either **Capital One Financial Corporation** or **Discover Financial Services** as part of their acquisition process. This document should mimic authentic corporate documents used in mergers and acquisitions (M&A), incorporating publicly available information and plausible synthetic data where specifics are not accessible.
+
+**Instructions:**
+
+1. **Document Type:**
+   - Specify the document type you wish to generate from the following options:
+     - **Financial Documents:**
+       - Audited Financial Statements
+       - Tax Returns
+       - Financial Projections and Forecasts
+       - Debt and Capital Structure Details
+       - Accounts Receivable and Payable Aging Reports
+     - **Legal Documents:**
+       - Articles of Incorporation and Bylaws
+       - Material Contracts and Agreements
+       - Intellectual Property (IP) Documentation
+       - Litigation and Dispute History
+       - Regulatory Compliance and Permits
+
+2. **Data Sources and Research:**
+   - **Web Search:** Utilize public sources such as company annual reports (10-K), press releases, official company websites, SEC filings, and reputable financial news outlets to gather accurate information about the specified company.
+   - **Templates:** Reference standard templates and formats for the chosen document type to ensure authenticity in structure and content.
+   - **Synthetic Data Generation:** Where specific data points are not publicly available, generate plausible and realistic synthetic data consistent with the company's profile and industry standards.
+
+3. **General Guidelines:**
+   - **Accuracy:** Ensure that all factual information aligns with publicly available data as of the knowledge cutoff date (2023-10).
+   - **Professional Tone:** Maintain formal and professional language appropriate for corporate documents.
+   - **Confidentiality Notices:** Include standard confidentiality disclaimers typically found in such documents.
+   - **Formatting:** Adhere to conventional formatting styles used in corporate financial and legal documents, including appropriate headings, sections, tables, and signatures where applicable.
+   - **Compliance:** Ensure all legal documents reflect compliance with relevant laws and regulations pertinent to the financial services industry.
+
+4. **Specific Instructions for the Chosen Document Type:**
+
+   - **[Insert Document Type Here]**
+     - **Content:** [Provide specific content requirements based on the document type selected.]
+     - **Details to Include:** [List the specific details that should be included in the document.]
+     - **Synthetic Data:** [Outline how to generate synthetic data relevant to the document type.]
+
+5. **Output Requirements:**
+   - **Format:** Provide the document as a well-structured text file.
+   - **Detail Level:** The document should contain sufficient detail to reflect the complexity and depth typical of real corporate documents.
+   - **Anonymization:** Where applicable, use placeholder names or generic terms to avoid replicating sensitive or proprietary information.
+
+6. **Examples and Templates:**
+   - Reference publicly available templates and samples of similar financial and legal documents to guide structure and content.
+   - Ensure that the synthetic document adheres to standard conventions in terminology, formatting, and presentation.
+
+7. **Quality Assurance:**
+   - **Consistency:** Ensure that data within the document is internally consistent.
+   - **Realism:** Maintain a high level of realism in narrative sections, avoiding generic or vague language.
+   - **Compliance:** Verify that the document meets the necessary legal standards and includes all required sections and clauses.
+
+**Deliverable:**
+
+Produce the specified synthetic document for either **Capital One Financial Corporation** or **Discover Financial Services** based on the document type you choose.
+
+---
+
+**Notes:**
+
+- Ensure that all synthetic data is plausible and aligns with the company's known financial standings and operational scopes.
+- Avoid using any confidential or sensitive information that is not publicly accessible.
+- The generated document should serve as a realistic representation for educational, illustrative, or simulation purposes only and not be mistaken for an actual corporate document.
+
+---
+
+**Example Prompt Structure:**
+
+Below is an example of how you might structure the document generation task within the overall prompt.
+
+---
+
+**Example: Generating Audited Financial Statements for Capital One Financial Corporation**
+
+---
+
+**Task:** Generate a synthetic **Income Statement** for Capital One Financial Corporation for the fiscal year ending December 31, 2023.
+
+**Instructions:**
+
+1. **Header:**
+   - Company Name: Capital One Financial Corporation
+   - Document Title: Consolidated Income Statement
+   - Fiscal Year End: December 31, 2023
+
+2. **Sections to Include:**
+   - Revenue
+     - Net Interest Income
+     - Non-Interest Income
+   - Expenses
+     - Provision for Credit Losses
+     - Non-Interest Expense
+   - Operating Income
+   - Other Income/Expenses
+   - Income Before Tax
+   - Income Tax Expense
+   - Net Income
+
+3. **Data Generation:**
+   - Use historical growth rates from publicly available data (e.g., past 3-5 years) to project revenue and expense figures.
+   - Ensure that the Net Income reflects industry-standard profit margins for the financial services sector.
+   - Incorporate reasonable estimates for Provision for Credit Losses based on asset quality trends.
+
+4. **Formatting:**
+   - Present the data in a tabular format with appropriate financial formatting (e.g., USD amounts in millions).
+   - Include percentage changes compared to the previous fiscal year to enhance realism.
+
+---
+
+**End of Example**
+
+---
+
+**Conclusion:**
+
+Use the above structure and guidelines to generate the specified synthetic document for either Capital One Financial Corporation or Discover Financial Services. Ensure consistency, realism, and adherence to professional standards throughout the document.
